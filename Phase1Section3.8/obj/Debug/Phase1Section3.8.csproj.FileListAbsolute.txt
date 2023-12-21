@@ -1,0 +1,7 @@
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\bin\Debug\Phase1Section3.8.exe.config
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\bin\Debug\Phase1Section3.8.exe
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\bin\Debug\Phase1Section3.8.pdb
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.csproj.AssemblyReference.cache
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.csproj.CoreCompileInputs.cache
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.exe
+D:\Project2.3\Phase1Section3.8\Phase1Section3.8\obj\Debug\Phase1Section3.8.pdb
